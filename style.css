@@ -19,6 +19,16 @@ width: 100%
     width: 100%;
     background-color: rgb(68,161,192);
 }
+#page2 img{
+    height: 500px;
+    width: 400px;
+    object-fit: cover;
+    object-position: bottom;
+display: flex;
+align-items: center ;
+justify-content: center;
+    background-color: rgb(68,161,192);
+}
 #page3{
     height: 100vh;
     width: 100%;
